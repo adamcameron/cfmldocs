@@ -2,7 +2,7 @@
 <cfscript>
 	import me.adamcameron.docs.*;
 
-	tagsDir = expandPath("./tags/");
+	tagsDir = expandPath("/cfmldocs/coldfusion/9/tags/");
 
 	tagListPage = new TagListPage();
 	tags = tagListPage.getTags();

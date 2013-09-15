@@ -2,7 +2,7 @@
 <cfscript>
 	import me.adamcameron.docs.*;
 
-	functionsDir = expandPath("./functions/");
+	functionsDir = expandPath("/cfmldocs/coldfusion/9/functions/");
 
 	functionIndexPage = new FunctionIndexPage();
 	functions = functionIndexPage.getFunctions();
