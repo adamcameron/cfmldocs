@@ -22,3 +22,13 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
+
+
+
+This repository contains material that has separate licensing requirements (included in situ, and/or referenced below).
+This licence document is not intended to supercede those licences.
+
+References:
+http://help.adobe.com/en_US/ColdFusion/10.0/LegalNotices/index.html
+http://jsoup.org/license
+https://github.com/markmandel/JavaLoader/blob/develop/javaloader/licence.txt
